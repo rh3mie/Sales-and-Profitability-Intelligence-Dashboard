@@ -1,4 +1,4 @@
-# Superstore Sales Analytics Dashboard
+# Retail Sales Intelligence Dashboard
 
 *By Rhey Mar De Vera*
 
