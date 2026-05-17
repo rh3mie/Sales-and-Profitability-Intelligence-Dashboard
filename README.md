@@ -5,7 +5,7 @@
 ## Business Problem
 Retail businesses generate large volumes of transactional data across products, customers, and regions, without a structured data model and analytical tooling, and that data sits unused. This leads to a lack of visibility into which products are actually profitable, which customer segments drive the most value, and where discounting strategies might help increase margins, and also where they might be hurting them. This makes it difficult to prioritize different decisions between pricing, inventory, and marketing.
 
-## Solution/ Overview
+## Solution/ Project Overview
 This project was created to analyze retail sales data and provide business intelligence solutions by building a structured **PostgreSQL** star schema and a fully interactive multi-page **Power BI** dashboard. Stakeholders can then use this dashboard to receive insights to inform data-driven decisions towards pricing, inventory, and retention strategy. This includes insights such as:
 
 - Business Performance
